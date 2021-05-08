@@ -1,0 +1,24 @@
+{
+  "logOut": "Log out",
+  "home": {
+    "scanPdf": "Scan pdf (s)",
+    "printPdf": "Print pdf (s)",
+    "printShipping": "Print shipping label",
+    "updateStatus": "Update status",
+    "searchPlaceholder": "Search for..."
+  },
+  "login": {
+    "mainTitle": "Welcome to the online doctor services store portal",
+    "forgotPasswordLink": "Forgot password?"
+  },
+  "registrationsPagesLayout": {
+    "footerLogoCaption": "Powered by:"
+  },
+  "contactModal": {
+    "title": "Contact the lemonaid support team for help",
+    "contactEmailLinkCaption": "or email at"
+  },
+  "button": {
+    "close": "Close"
+  }
+}
